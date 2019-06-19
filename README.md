@@ -3,5 +3,5 @@ This is to demo the machine learning projects that I have worked on. It includes
 
 ## Projects:
 
-- Payment Fraud Detection
+- Payment Fraud Detection [payment_fraud_detection]("https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/Fraud_Detection_Exercise.ipynb")
 - Boston Housing Market Prediction
