@@ -5,3 +5,6 @@ This is to demo the machine learning projects that I have worked on. It includes
 
 - Payment Fraud Detection [payment_fraud_detection](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/Fraud_Detection_Exercise.ipynb)
 - Boston Housing Market Prediction [boston housing price prediction](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/boston_housing.ipynb)
+
+## License
+It is free, and may be redistributed under the terms specified in the [LICENSE](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/LICENSE) file.
