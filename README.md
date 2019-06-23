@@ -7,6 +7,7 @@ This is to demo the machine learning projects that I have worked on. It includes
 - Boston Housing Market Prediction [boston housing price prediction](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/boston_housing.ipynb)
 - Finding Donors [supervised learning](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/finding_donors.ipynb) (data exploration, preprocessing data, shuffle and split data, train and test model with SVM, AdaBoost and Naive Bayes)
 - Customers Segments [unsupervised learning](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/customer_segments.ipynb) (Data Exploration, Preprocessing, PCA, KMeans, Gaussian Mixture Model clustering algorithm, Feature Recovery)
+- Population Segmentation with SageMaker [unsupervised learning](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/Pop_Segmentation_Exercise.ipynb) (Data loading, data analysis, data normalization, data modeling, PCA, data transformation, Data Visualization, K-means)
 
 ## License
 It is free, and may be redistributed under the terms specified in the [LICENSE](https://github.com/DreamSkyMXDan/Machine-Learning-Project/blob/master/project/LICENSE) file.
